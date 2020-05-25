@@ -1,0 +1,246 @@
+
+2017-06-12 13:52:15
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:52:15
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:52:15
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:52:15
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:52:15
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:52:15
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:52:15
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:52:15
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:58:40
+[WARN]-[Thread: main]-[cn.jpush.api.push.model.notification.PlatformNotification$Builder.addExtras()]: Null extras param. Throw away it.
+
+2017-06-12 13:59:01
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:59:01
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:59:01
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:59:01
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:59:01
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:59:01
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:59:01
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:59:01
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 13:59:01
+[WARN]-[Thread: main]-[cn.jpush.api.push.model.notification.PlatformNotification$Builder.addExtras()]: Null extras param. Throw away it.
+
+2017-06-12 13:59:01
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Send request - POST https://api.jpush.cn/v3/push
+
+2017-06-12 13:59:01
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request Content - {"platform":["ios"],"audience":"all","notification":{"ios":{"alert":"ceshi","badge":"+1","sound":""}},"options":{"sendno":1127887342,"apns_production":false}}
+
+2017-06-12 13:59:02
+[DEBUG]-[Thread: main]-[cn.jiguang.common.resp.ResponseWrapper.setRateLimit()]: JPush API Rate Limiting params - quota:600, remaining:599, reset:60
+
+2017-06-12 13:59:02
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Succeed to get response OK - responseCode:200
+
+2017-06-12 13:59:02
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Response Content - {"sendno":"1127887342","msg_id":"49539596083654778"}
+
+2017-06-12 14:01:30
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:01:30
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:01:30
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:01:30
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:01:30
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:01:30
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:01:30
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:01:30
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:01:30
+[WARN]-[Thread: main]-[cn.jpush.api.push.model.notification.PlatformNotification$Builder.addExtras()]: Null extras param. Throw away it.
+
+2017-06-12 14:01:30
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Send request - POST https://api.jpush.cn/v3/push
+
+2017-06-12 14:01:30
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request Content - {"platform":["ios"],"audience":"all","notification":{"ios":{"alert":"ceshi","badge":"+1","sound":""}},"options":{"sendno":135703390,"apns_production":false}}
+
+2017-06-12 14:01:30
+[DEBUG]-[Thread: main]-[cn.jiguang.common.resp.ResponseWrapper.setRateLimit()]: JPush API Rate Limiting params - quota:600, remaining:599, reset:60
+
+2017-06-12 14:01:30
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Succeed to get response OK - responseCode:200
+
+2017-06-12 14:01:30
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Response Content - {"sendno":"135703390","msg_id":"49539596081614176"}
+
+2017-06-12 14:02:07
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:07
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:07
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:07
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:07
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:07
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:07
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:07
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:07
+[WARN]-[Thread: main]-[cn.jpush.api.push.model.notification.PlatformNotification$Builder.addExtras()]: Null extras param. Throw away it.
+
+2017-06-12 14:02:07
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Send request - POST https://api.jpush.cn/v3/push
+
+2017-06-12 14:02:07
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request Content - {"platform":["ios"],"audience":"all","notification":{"ios":{"alert":"ceshi","badge":"+1","sound":""}},"options":{"sendno":1524400910,"apns_production":true}}
+
+2017-06-12 14:02:09
+[DEBUG]-[Thread: main]-[cn.jiguang.common.resp.ResponseWrapper.setRateLimit()]: JPush API Rate Limiting params - quota:600, remaining:598, reset:23
+
+2017-06-12 14:02:09
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Succeed to get response OK - responseCode:200
+
+2017-06-12 14:02:09
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Response Content - {"sendno":"1524400910","msg_id":"24769798111326699"}
+
+2017-06-12 14:02:18
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:18
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:18
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:18
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:18
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:18
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:18
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:18
+[INFO]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-06-12 14:02:18
+[WARN]-[Thread: main]-[cn.jpush.api.push.model.notification.PlatformNotification$Builder.addExtras()]: Null extras param. Throw away it.
+
+2017-06-12 14:02:18
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Send request - POST https://api.jpush.cn/v3/push
+
+2017-06-12 14:02:18
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request Content - {"platform":["ios"],"audience":"all","notification":{"ios":{"alert":"ceshi","badge":"+1","sound":""}},"options":{"sendno":404012113,"apns_production":true}}
+
+2017-06-12 14:02:18
+[DEBUG]-[Thread: main]-[cn.jiguang.common.resp.ResponseWrapper.setRateLimit()]: JPush API Rate Limiting params - quota:600, remaining:597, reset:12
+
+2017-06-12 14:02:18
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Succeed to get response OK - responseCode:200
+
+2017-06-12 14:02:18
+[DEBUG]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Response Content - {"sendno":"404012113","msg_id":"49539596082478012"}
+
+2017-09-07 12:31:11
+[INFO]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-09-07 12:31:11
+[INFO]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-09-07 12:31:11
+[INFO]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-09-07 12:31:11
+[INFO]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient.<init>()]: Created instance with connectionTimeout 5,000, readTimeout 30,000, maxRetryTimes 3, SSL Version TLS
+
+2017-09-07 12:31:11
+[DEBUG]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Send request - POST https://api.jpush.cn/v3/push
+
+2017-09-07 12:31:11
+[DEBUG]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request Content - {"platform":"all","audience":{"alias":["6488ca4f"]},"notification":{"android":{"alert":"收到了没","extras":{"id":"2","status":"1"},"title":"收到了没"},"ios":{"alert":"收到了没","extras":{"id":"2","status":"1"},"badge":"+1","sound":"sound.caf"}},"message":{"title":"收到了没","msg_content":"收到了没","extras":{"id":"2","status":"1"}},"options":{"sendno":1,"time_to_live":86400,"apns_production":false}}
+
+2017-09-07 12:31:11
+[DEBUG]-[Thread: main]-[cn.jpush.api.common.resp.ResponseWrapper.setRateLimit()]: JPush API Rate Limiting params - quota:600, remaining:599, reset:60
+
+2017-09-07 12:31:11
+[WARN]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Got error response - responseCode:400, responseContent:{"msg_id": 3014511251, "error": {"message": "cannot find user by this audience", "code": 1011}}
+
+2017-09-07 12:31:11
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Your request params is invalid. Please check them according to error message.

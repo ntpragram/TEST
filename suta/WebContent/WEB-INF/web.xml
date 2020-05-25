@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+
+
+
+
+
+	<session-config>
+	<session-timeout>60</session-timeout>
+	</session-config>
+	<filter>
+		<filter-name>sitemesh</filter-name>
+		<filter-class>com.opensymphony.module.sitemesh.filter.PageFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>sitemesh</filter-name>
+		<url-pattern>/admin/*</url-pattern>
+	</filter-mapping>
+
+	<filter>
+		<filter-name>jfinal</filter-name>
+		<filter-class>com.jfinal.core.JFinalFilter</filter-class>
+		<init-param>
+			<param-name>configClass</param-name>
+			<param-value>utils.jfinal.Config</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>jfinal</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+  <servlet>
+    <servlet-name>UserPic</servlet-name>
+    <servlet-class>api.user.UserPic</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserPic</servlet-name>
+    <url-pattern>/api/UserPic</url-pattern>
+  </servlet-mapping>
+	
+	
+<servlet>
+    <servlet-name>NotifyAliPay</servlet-name>
+    <servlet-class>utils.notify.NotifyAliPay</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>NotifyAliPay</servlet-name>
+    <url-pattern>/api/notifyOrder/NotifyAliPay</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+    <servlet-name>NotifyWeChat</servlet-name>
+    <servlet-class>utils.notify.NotifyWeChat</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>NotifyWeChat</servlet-name>
+    <url-pattern>/api/notifyOrder/NotifyWeChat</url-pattern>
+  </servlet-mapping>
+	
+	
+	
+	
+</web-app>

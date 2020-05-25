@@ -1,0 +1,70 @@
+/*table width*/
+.table-list-box .first{}
+.table-list-box .second{width:30px;}
+.table-list-box .last{width:200px;}
+
+
+/*color*/
+/*header-color*/
+.layui-layout-admin .header {background-color: #2963b9;color: #fff; border-bottom: 5px solid #253952 !important;}
+/*header-nav：hover*/
+.layui-layout-admin .header .layui-nav .layui-this a {color:white;}
+.layui-layout-admin .header .layui-nav .layui-this {background: #5891D7;}
+/*header-nav-scroll*/
+.layui-layout-admin .header .layui-nav .layui-nav-bar {background: #ff5722!important;}
+/*导航登录颜色*/
+.layui-layout-admin .top_admin_user a{color:#d5f4ff;}
+
+/*word-color 列表title的颜色*/
+.layui-nav .layui-nav-item a {color: #b8c7ce;}
+/*left-bg*/
+.layui-bg-black {background-color: #222d32;color: #b8c7ce;}
+/*left-nav-bg 主要调整色*/
+.layui-nav-item>a {color: #b8c7ce;background-color:#222d32;}
+.layui-nav {background-color: #222d32}
+/*列表展开背景色#2c3b41*/
+.layui-nav-tree .layui-this,
+.layui-nav-itemed{background: #4f666f;}
+/*title 颜色*/
+.layui-nav-tree .layui-this>a {background: #222d32}
+/*left-nav-title li打开后颜色*/
+.layui-nav-item.layui-nav-itemed>a{background: #222d32 !important;color: #fff!important;}
+.layui-nav-tree .layui-this>a:hover{
+    color: #fff!important;
+}
+.layui-nav-item.layui-nav-itemed dd a:hover {
+    color: #fff!important;
+}
+.layui-nav-tree .layui-nav-item>a:hover {
+    background-color: #222;
+}
+.layui-nav-tree dd.layui-this>a {background: #2963b9}
+
+/*left-nav 展开后列经过颜色*/
+.layui-nav-tree .layui-nav-itemed dd a{font-size: 12px;}
+.layui-nav-tree .layui-nav-itemed dd a:hover{background-color:#2963b9 !important;}
+/*left-nav-active 当前打开列颜色*/
+.layui-nav-tree .layui-this dd.layui-this a{background: #2963b9 !important;}
+/*left-nav-scroll*/
+.layui-nav-tree .layui-nav-bar{background-color:#FF5722 !important;}
+
+/*main*/
+/*main-title*/
+.main-tab-title .main-tab-item{background:#FF5722 !important;}
+
+/*main-list*/
+.layui-tab-brief>.layui-tab-title .layui-this {color: #2963b9}
+.layui-tab-brief>.layui-tab-more li.layui-this:after, .layui-tab-brief>.layui-tab-title .layui-this:after {border-bottom: 3px solid #2963b9;}
+/*main-form-button*/
+.layui-form-item .input-img label:hover{border:1px solid #FF5722;}
+.layui-form-radio i:hover, .layui-form-radioed i {color: #FF5722;}
+.layui-form-checked, .layui-form-checked:hover {border: 1px solid #FF5722;}
+.layui-form-checkbox:hover{border-color:#FF5722}
+.layui-form-checked{background:#FF5722;}
+/*main-button*/
+.button-color{background:#FF5722;}
+
+/*main-page-color*/
+.layui-laypage .layui-laypage-curr .layui-laypage-em {background-color: #FF5722;}
+/*jump window*/
+body .layui-layer-btn .layui-layer-btn0 {background-color: #FF5722;border-color: #FF5722;}

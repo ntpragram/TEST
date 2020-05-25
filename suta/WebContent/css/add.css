@@ -1,0 +1,76 @@
+/*form*/
+.main-tab-title .main-tab-item{float:left;left:-150px \9;top:3px \9}
+.layui-tab-brief>.layui-tab-title .layui-this{    border-bottom: 3px solid #5FB878 \9;position:absolute;top:-3px \9;}
+.layui-form-item .layui-input-inline.input-custom-select select{}
+.layui-form-select{}
+.layui-form-select .layui-edge{}
+.select{position:relative;z-index:1000;}
+.select-next{position:relative;z-index:0;}
+.layui-form-select dl{z-index:1000}
+.layui-form-item .input-img{position:relative;}
+.layui-form-item .input-img ul li{float: left;}
+.layui-form-item .input-img img{display: inline-block;height:50px;}
+.layui-form-item .input-img .img-show{overflow: hidden;width:auto;}
+.layui-form-item .input-img .img-box{position:relative;width:200px;margin-left:10px;top:5px;}
+.layui-form-item .input-img input,
+.layui-form-item .input-img label{display: block;width:100px;height:30px;position:absolute;left:2px;top:0px;cursor:pointer;background: white;}
+.layui-form-item .input-img input{}
+.layui-form-item .input-img label{left:-15px;width:110px;border:1px solid #ddd;padding-top: 10px;transition: 0.5s;}
+.layui-form-item .input-img label:hover{border:1px solid #009688;}
+.chose-more span{overflow: visible;color:black;}
+.layui-form-checkbox span {
+    padding: 8px 23px;}
+.layui-form-checkbox {
+    margin-left: 0px !important;
+    margin-right: 50px;
+}
+.layui-checkbox-disbaled span {background-color:transparent!important;}
+
+/*NAV*/
+.layui-nav-tree .layui-this,.layui-nav-tree .layui-this>a{background:#393D49;}
+.layui-nav-tree.layui-nav-itemed .layui-this>a{background:#2B2E37 !important;}
+.layui-nav-tree.layui-nav-item a:hover{background:#009688 !important;}
+.layui-nav-itemed a:hover{background:#2B2E37 !important;}
+
+/*member*/
+.layui-form-checkbox{width:20px;height:20px;padding: 0px;line-height: 0px;top:5px;margin-left: 10px;}
+.layui-form-checkbox i{display: none;}
+.layui-form-checkbox:hover{border-color:#5FB878;}
+.layui-form-checkbox:hover span {
+    background-color: transparent;
+}
+.layui-form-checkbox span{background:transparent;width:20px;height:20px;}
+.layui-form-checked{background:#5FB878;}
+.layui-form-checked span{background: url("../images/right (2).png") no-repeat;background-position: 2px 2px}
+
+.list-table th.first, .list-table td.first{width:20px;}
+.list-table th.first button, .list-table td.first button{padding:0 5px \9}
+
+/*table img*/
+.table-img{width:123px;}
+.table-img .img {
+    width: 80px;
+    max-width: 100px;
+}
+.img-thumbnail {
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+.table2-edit input{width:50px;}
+.table2-edit .layui-btn-mini{margin-left: 10px;}
+
+#demo8{text-align: right}
+.layui-btn{opacity: 1}
+.layui-btn a{color:white;position: relative;top:1px;top:3px \9;}
+
+/*µ¯³ö´°*/
+.layui-layer.layui-layer-page.layer-anim{border:1px solid #ddd \9;}
